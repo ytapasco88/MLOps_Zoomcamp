@@ -1,7 +1,6 @@
 # MLOps Zoomcamp
 
-Hola, Bienvenido a mi repositorio sobre el desarrollo de experimentos y aprendizajes que tengo en el #mlopszoomcamp, dictado por Alexey Grigorev y el equipo de DataTalksClub
-
+Hello, welcome to my repository about the development of experiments and learnings that I have in the #mlopszoomcamp, led by Alexey Grigorev and the DataTalks.Club team.
 
 **Week 1: Introduction**
 
