@@ -15,3 +15,14 @@ Hello, welcome to my repository about the development of experiments and learnin
 * Introduction to MLflow and Application of Experiment Tracking with this tool.
 * Model Management and Registry.
 * MLflow: Benefits, Limitations, and Alternatives.
+
+**Week 3: Orchestration and ML Pipelines.**
+
+* Introduction: ML pipelines and Mage
+* Data preparation: ETL and feature engineering
+* Training: sklearn models and XGBoost
+* Observability: Monitoring and alerting
+* Triggering: Inference and retraining
+* Deploying: Running operations in production
+
+
