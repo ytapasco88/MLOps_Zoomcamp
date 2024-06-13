@@ -19,8 +19,7 @@ Hello, welcome to my repository about the development of experiments and learnin
 **Week 3: Orchestration and ML Pipelines.**
 
 * Introduction: ML pipelines and Mage
-* Data preparation: ETL and feature engineering
-* Training: sklearn models and XGBoost
-* Observability: Monitoring and alerting
-* Triggering: Inference and retraining
-* Deploying: Running operations in production
+* Data Ingestion and Preparation
+* Data Transformation
+* Training Model
+* Register Modeling with MLFLOW
