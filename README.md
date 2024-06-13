@@ -24,5 +24,3 @@ Hello, welcome to my repository about the development of experiments and learnin
 * Observability: Monitoring and alerting
 * Triggering: Inference and retraining
 * Deploying: Running operations in production
-
-
